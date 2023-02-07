@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int a, b, hypo;
-    char userRepeatBool;
+    char userRepeatBool; 
 
     startCalc:
         cout<<"Enter the first side of the right triangle: ";

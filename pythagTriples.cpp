@@ -10,7 +10,7 @@ int main(){
             hypot=sqrt(pow(a,2)+pow(b,2)); 
             if(hypot==sqrt(pow(a,2)+pow(b,2))){
                 cout<<"("<<a<<","<<b<<")"<<endl;
-                counter++;
+                counter++; 
             }
         }
     }

@@ -9,7 +9,7 @@ int main() {
     startCalc:
         cout << "Enter coefficients a, b and c: \n";
         cin >> a >> b >> c;
-        discriminant = b*b - 4*a*c;
+        discriminant = b*b - 4*a*c; 
 
         if (discriminant > 0) {
             x1 = (-b + sqrt(discriminant)) / (2*a);

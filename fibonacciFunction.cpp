@@ -8,6 +8,6 @@ int fib(int n){
    
    int smallOutput1 = fib(n-1);
    int smallOutput2 = fib(n-2);
-  
+   
    return smallOutput1 + smallOutput2;
 }

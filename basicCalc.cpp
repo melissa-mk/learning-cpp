@@ -7,7 +7,7 @@ int main() {
 
     cout << "Enter two operands: ";
     cin >> num1 >> num2;
-
+ 
 inputOp:
     cout << "Enter operator: +, -, *, / or mod (%): ";
     cin >> op;

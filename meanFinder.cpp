@@ -10,7 +10,7 @@ int main(){
         if(n>0){
             cout<<"Enter "<<n<<" positive numbers: \n";
         }else{
-            goto start;
+            goto start; 
         }
 
     for(i=0;i<n;i++){
